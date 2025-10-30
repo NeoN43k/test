@@ -5,3 +5,4 @@ public class Main {
         System.out.println("It`s third edit Win;)");
     }
 }
+
