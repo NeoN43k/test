@@ -5,6 +5,7 @@ public class Main {
         System.out.println("It`s third edit Win;)");
         System.out.println("It`s fourth edit Mac AIR;0)");
         System.out.println("Last edit from Win");
+        System.out.println("And last edit from Mac AIR bay(");
     }
 }
 
